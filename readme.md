@@ -5,6 +5,13 @@
 It truly helps in connecting deprecated/restricted technology to more modern ones, achieving it's goals in having a better IoT integration.
 <br>
 
+### Pre-ŕequisites
+The program requires Python3 and the module [Paho-mqtt](https://pypi.org/project/paho-mqtt/). You can install it by using:
+
+```
+pip3 install paho-mqtt
+```
+
 ##### Origin
 This software was developed by me (João Vitor Coelho) in Dec/2020 for the [**NANO - Núcleo de Arte e Novos Organismos**](https://nano.eba.ufrj.br), in the [**Escola de Belas Artes**](https://eba.ufrj.br/), at [**UFRJ - Universidade Federal do Rio de Janeiro**](https://ufrj.br/en), Brazil.
 
