@@ -5,7 +5,7 @@
 It truly helps in connecting deprecated/restricted technology to more modern ones, achieving it's goals in having a better IoT integration.
 <br>
 
-### Pre-ŕequisites
+### Pre-requisites
 The program requires Python3 and the module [Paho-mqtt](https://pypi.org/project/paho-mqtt/). You can install it by using:
 
 ```
