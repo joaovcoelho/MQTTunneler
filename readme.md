@@ -19,7 +19,7 @@ This software was developed by me (João Vitor Coelho) in Dec/2020 for the [**NA
 
 ##### How it Works
 MQTTunneler creates (and maintains it, while it's running) a local UDP connection at your network, which will be used internally to send and receive data.
-- You must point your device/software to your proper localhost IP ADDRESS and PORT (which are two separated ones: Receiving and Sending PORTs) and send your data via UDP connection. With that set, the program will do rest in translating that to your MQTT broker.
+- You must point your device/software to your proper localhost IP ADDRESS and PORT (which are two separated ones: Receiving and Sending PORTs) and send your data via UDP connection. With that set, the program will do the rest in translating that to your MQTT broker.
 - Receiveing data follows the same structure: data coming from the specific topic on your MQTT broker will be served on your local network, at the selected port (40301, by default, but it's customizable).
 
 <br>
